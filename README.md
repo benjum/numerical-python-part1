@@ -1,4 +1,4 @@
-# Winter 2020 IDRE Numerical Programming with Python Part 1, Python Basics
+# Winter 2021 IDRE Numerical Programming with Python Part 1, Python Basics
 
 This repository is maintained by Ben Winjum for use in UCLA IDRE's introductory training class.
 
