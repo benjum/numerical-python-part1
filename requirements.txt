@@ -1,0 +1,6 @@
+matplotlib
+numpy
+ipywidgets
+pandas
+yahoo_fin
+requests
