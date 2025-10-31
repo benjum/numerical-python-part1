@@ -1,8 +1,0 @@
-matplotlib
-numpy
-ipywidgets
-pandas
-yahoo_fin
-requests
-requests_html
-lxml
